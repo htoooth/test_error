@@ -1,0 +1,18 @@
+.container {
+  font-size: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.item {
+  font-size: 16px;
+  color:green;
+  background: blue;
+}
+
+.item2 {
+  font-size: 16px;
+  color:green;
+  background: red;
+}
